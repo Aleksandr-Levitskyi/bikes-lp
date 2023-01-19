@@ -1,0 +1,7 @@
+.placeholder--type--welcome {
+    position: sticky;
+    transform: translate(-50%);
+
+    top: 347px;
+    margin: 0 0 79px;
+}

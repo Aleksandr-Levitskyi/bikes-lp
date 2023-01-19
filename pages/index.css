@@ -1,0 +1,31 @@
+/* normalize и файл шрифтов */
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+/* page */
+@import url(../blocks/page/page.css);
+
+/* welcome */
+@import url(../blocks/welcome/welcome.css);
+@import url(../blocks/welcome/__cover/welcome__cover.css);
+@import url(../blocks/welcome/__img/welcome__img.css);
+
+/* desc-container */
+@import url(../blocks/desc-container/desc-container.css);
+@import url(../blocks/desc-container/__headline/desc-container__headline.css);
+@import url(../blocks/desc-container/__headline/--hidden/desc-container__headline--hidden.css);
+@import url(../blocks/desc-container/__text/desc-container__text.css);
+@import url(../blocks/desc-container/__btn/desc-container__btn.css);
+@import url(../blocks/desc-container/__caption/desc-container__caption.css);
+
+/* cover-container */
+@import url(../blocks/cover-conteiner/cover-conteiner.css);
+@import url(../blocks/cover-conteiner/__img/cover-container__img.css);
+
+/* fix-img */
+@import url(../blocks/fix-img/__wrapper/img-fix__wrapper.css);
+
+/* placeholder */
+@import url(../blocks/placeholder/placeholder.css);
+@import url(../blocks/placeholder/--type/--welcome/placeholder--type--welcome.css);
+@import url(../blocks/placeholder/__img/placeholder__img.css);

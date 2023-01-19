@@ -1,0 +1,9 @@
+.desc-container__headline--hidden {
+    display: none;
+}
+
+@media screen and (max-width: 320px) {
+    .desc-container__headline--hidden {
+        display: inline;
+    }
+}
