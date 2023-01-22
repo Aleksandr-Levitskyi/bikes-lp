@@ -20,3 +20,10 @@
 /* ----- hamburger ----- */
 @import url(../blocks/hamburger/hamburger.css);
 
+/* ----- theme-control ----- */
+@import url(../blocks/theme-control/theme-control.css);
+
+/* ----- switch ----- */
+@import url(../blocks/switch/switch.css);
+
+@import url(../blocks/switch/__slider/switch__slider.css);
