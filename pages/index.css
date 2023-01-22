@@ -8,6 +8,7 @@
 @import url(../blocks/header/header.css);
 
 @import url(../blocks/header/__desktop/header__desktop.css);
+@import url(../blocks/header/__mobile/header__mobile.css);
 
 /* ----- nav ----- */
 @import url(../blocks/nav/nav.css);
