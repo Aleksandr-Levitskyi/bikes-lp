@@ -10,3 +10,11 @@
 
     gap: 34px;
 }
+
+@media (max-width: 640px) {
+    .nav__list {
+        flex-direction: column;
+
+        gap: 2rem;
+    }
+}
