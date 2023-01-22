@@ -4,6 +4,14 @@
 /* ----- page ----- */
 @import url(../blocks/page/page.css);
 
+/* ----- footer ----- */
+@import url(../blocks/footer/footer.css);
+
+@import url(../blocks/footer/__bottom/footer__bottom.css);
+@import url(../blocks/footer/__copyright/footer__copyrigh.css);
+@import url(../blocks/footer/__headline/footer__headline.css);
+@import url(../blocks/footer/__top/footer__top.css);
+
 /* ----- theme-control ----- */
 @import url(../blocks/theme-control/theme-control.css);
 
