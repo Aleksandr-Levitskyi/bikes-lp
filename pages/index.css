@@ -1,2 +1,5 @@
+/* ----- page ----- */
+@import url(../blocks/page/page.css);
+
 /* ----- header ----- */
 @import url(../blocks/header/header.css);
