@@ -20,6 +20,8 @@
 /* ----- theme-control ----- */
 @import url(../blocks/theme-control/theme-control.css);
 
+@import url(../blocks/theme-control/--footer/theme-control--footer.css);
+
 /* ----- switch ----- */
 @import url(../blocks/switch/switch.css);
 
