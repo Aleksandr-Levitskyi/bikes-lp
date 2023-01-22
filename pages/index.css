@@ -12,6 +12,11 @@
 @import url(../blocks/footer/__headline/footer__headline.css);
 @import url(../blocks/footer/__top/footer__top.css);
 
+/* ----- form ----- */
+@import url(../blocks/form/form.css);
+
+@import url(../blocks/form/__input/form__input.css);
+
 /* ----- theme-control ----- */
 @import url(../blocks/theme-control/theme-control.css);
 
