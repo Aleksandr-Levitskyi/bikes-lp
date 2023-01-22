@@ -1,0 +1,18 @@
+.desc-container__caption {
+    margin: 167px 0 0;
+
+    line-height: 1;
+    color: #151515;
+}
+
+.desc-container__caption::after {
+    content: '';
+    display: inline-block;
+
+    margin: 0 0 5px 30px;
+
+    width: 132px;
+    height: 2px;
+
+    background: #D7D4D4;
+}

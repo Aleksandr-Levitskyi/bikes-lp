@@ -3,3 +3,9 @@
 
 /* ----- page ----- */
 @import url(../blocks/page/page.css);
+
+/* ----- desc-container ----- */
+@import url(../blocks/desc-container/desc-container.css);
+
+@import url(../blocks/desc-container/__headline/desc-container__headline.css);
+@import url(../blocks/desc-container/__text/desc-container__text.css);
