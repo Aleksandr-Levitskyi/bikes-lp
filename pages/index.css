@@ -4,6 +4,12 @@
 /* ----- page ----- */
 @import url(../blocks/page/page.css);
 
+/* ----- bikes ----- */
+@import url(../blocks/bikes/bikes.css);
+
+/* ----- tracks ----- */
+@import url(../blocks/tracks/tracks.css);
+
 /* ----- desc-container ----- */
 @import url(../blocks/desc-container/desc-container.css);
 

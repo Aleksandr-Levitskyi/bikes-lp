@@ -1,0 +1,40 @@
+.bikes {
+    margin-bottom: 60px;
+}
+
+.bikes__elem {
+    margin: 0;
+    /* display: flex;
+    flex-direction: column;
+
+    gap: 22px; */
+}
+
+.bikes__photo {
+    padding: 20px;
+
+    background-color: white;
+
+    border-radius: 20px;
+}
+
+.bikes__slider {
+    width: calc(100% - 120px * 2);
+    margin: 0 auto;
+}
+
+.bikes__item {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 30px;
+}
+
+.bikes__name {
+    margin-top: 22px;
+
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.22;
+}
+
