@@ -6,6 +6,14 @@
     width: 650px;
 }
 
+.quote__blockquote-wrapper {
+    max-width: 470px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 .quote__blockquote {
     margin: 0;
     padding: 0;
@@ -38,7 +46,7 @@
 }
 
 .qoute__caption {
-    margin: 0;
+    margin: 0 0 6px 0;
     padding: 0;
 
     color: #222222;
