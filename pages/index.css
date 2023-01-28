@@ -17,6 +17,8 @@
 @import url(../blocks/desc-container/__text/desc-container__text.css);
 @import url(../blocks/desc-container/__btn/desc-container__btn.css);
 @import url(../blocks/desc-container/__caption/desc-container__caption.css);
+@import url(../blocks/desc-container/__list/desc-container__list.css);
+@import url(../blocks/desc-container/__link/desc-container__link.css);
 
 /* cover-container */
 @import url(../blocks/cover-conteiner/cover-conteiner.css);
