@@ -29,3 +29,6 @@
 @import url(../blocks/placeholder/placeholder.css);
 @import url(../blocks/placeholder/--type/--welcome/placeholder--type--welcome.css);
 @import url(../blocks/placeholder/__img/placeholder__img.css);
+
+/* quote */
+@import url(../blocks/quote/quote.css);
