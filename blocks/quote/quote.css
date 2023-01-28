@@ -7,6 +7,12 @@
     gap: 80px;
 }
 
+@media screen and (max-width: 768px) {
+    .quote {
+        padding: 0 80px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .quote {
         margin: 40px 0;
