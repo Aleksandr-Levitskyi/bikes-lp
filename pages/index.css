@@ -32,3 +32,9 @@
 
 /* quote */
 @import url(../blocks/quote/quote.css);
+@import url(../blocks/quote/__author/qoute__author.css);
+@import url(../blocks/quote/__blockquote-wrapper/quote__blockquote-wrapper.css);
+@import url(../blocks/quote/__blockquote/quote__blockquote.css);
+@import url(../blocks/quote/__caption/qoute__caption.css);
+@import url(../blocks/quote/__pic/quote__pic.css);
+@import url(../blocks/quote/__text/quote__text.css);
