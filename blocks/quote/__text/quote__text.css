@@ -11,3 +11,10 @@
 
     color: #151515;
 }
+
+@media screen and (max-width:320px) {
+    .quote__text {
+        font-size: 23px;
+        line-height: 1.26;
+    }
+}
