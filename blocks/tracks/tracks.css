@@ -2,6 +2,10 @@ html {
     background-color: #e5e5e5;
 }
 
+.tracks {
+    width: 100%;
+}
+
 .tracks__slider {
     display: grid;
 

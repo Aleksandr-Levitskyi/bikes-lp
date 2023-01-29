@@ -7,12 +7,17 @@
 }
 
 .bikes__photo {
+    box-sizing: border-box;
     padding: 20px;
 
-    background-color: white;
+    /* background-color: rgba(0, 0, 0, 0.06); */
+    /* filter: drop-shadow(0px 20px 140px rgba(0, 0, 0, 0.06)); */
+    filter: drop-shadow(0px 20px 140px rgba(0, 0, 0, 0.6));
 
     border-radius: 20px;
 }
+
+
 
 .bikes__slider {
     position: relative;
